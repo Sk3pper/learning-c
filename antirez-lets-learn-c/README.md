@@ -13,7 +13,7 @@ For each lesson, a new directory will be created. Inside each directory, you'll 
 | **Original Title** | **Translated Title** | **Link** | **Status** |
 |--------------------|----------------------|----------|------------|
 | Impariamo il C: lezione 1 | Learn C: Lesson 1 | [YT-Lesson-1](https://www.youtube.com/watch?v=HjXBXBgfKyk) | ✅ |
-| Impariamo il C: lezione 2 | Learn C: Lesson 2 | [YT-Lesson-2](https://www.youtube.com/watch?v=Z84vlG1RRtg) | ToDo |
+| Impariamo il C: lezione 2 | Learn C: Lesson 2 | [YT-Lesson-2](https://www.youtube.com/watch?v=Z84vlG1RRtg) | ✅ |
 | Impariamo il C: appendice alla lezione 2: la vita delle variabili locali | Learn C: Appendix to Lesson 2: The Life of Local Variables | [YT-Lesson-2-Bonus](https://www.youtube.com/watch?v=r6mU_IHXEps) | ToDo |
 | Impariamo il C: lezione 3 | Learn C: Lesson 3 | [YT-Lesson-3](https://www.youtube.com/watch?v=mw4gUqsGPZw) | ToDo |
 | Impariamo il C: lezione 4 | Learn C: Lesson 4 | [YT-Lesson-4](https://www.youtube.com/watch?v=YNsXyasn4R4) | ToDo |
